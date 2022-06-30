@@ -7,7 +7,7 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "https://sites.google.com/view/privacypolicyallinone/accueil",
@@ -22,6 +22,6 @@
 
 	"BUTTON_NAME": "skip",
 
-	"BUTTON_URL": "https://mail.google.com/"
+	"BUTTON_URL": "https://www.action.com/fr-fr/"
 
 }
